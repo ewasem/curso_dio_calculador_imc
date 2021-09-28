@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="weight">Peso (ex. 65.8 kg)</string>
+</resources>
